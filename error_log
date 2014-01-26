@@ -1,0 +1,102 @@
+[18-May-2013 16:14:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 64 bytes) in /home/admusbi/public_html/includes/bootstrap.inc on line 1522
+[18-May-2013 16:15:12 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home/admusbi/public_html/profiles/openpublish/modules/contrib/views/plugins/views_plugin_display.inc on line 1801
+[18-May-2013 16:36:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 91 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1232
+[18-May-2013 16:36:35 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:36:56 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 122880 bytes) in /home/admusbi/public_html/profiles/openpublish/modules/contrib/feeds/plugins/FeedsProcessor.inc on line 252
+[18-May-2013 16:40:40 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 584761 bytes) in /home/admusbi/public_html/includes/database/database.inc on line 2168
+[18-May-2013 16:41:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207807 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[18-May-2013 16:41:14 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207807 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[18-May-2013 16:41:25 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207807 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[18-May-2013 16:41:30 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:41:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:41:44 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:41:52 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:43:59 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 215041 bytes) in /home/admusbi/public_html/profiles/openpublish/themes/tao/templates/object.tpl.php on line 20
+[18-May-2013 16:44:11 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207807 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[20-May-2013 22:48:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:37:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:37:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:37:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:38:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:38:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[20-May-2013 23:40:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[21-May-2013 00:10:04 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/admusbi/public_html/includes/module.inc on line 101
+[21-May-2013 00:12:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 109888 bytes) in /home/admusbi/public_html/includes/module.inc on line 330
+[21-May-2013 00:12:51 Asia/Jakarta] PHP Fatal error:  Class 'Database' not found in /home/admusbi/public_html/includes/bootstrap.inc on line 3088
+[21-May-2013 00:14:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 586219 bytes) in /home/admusbi/public_html/includes/database/database.inc on line 2168
+[21-May-2013 00:15:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 5
+[21-May-2013 00:15:26 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:15:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:17:31 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:17:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:17:41 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:18:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:25:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:25:56 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:26:00 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:26:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 00:30:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 11:15:50 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 11:15:57 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[21-May-2013 11:16:10 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 208556 bytes) in /home/admusbi/public_html/includes/theme.inc on line 1508
+[22-May-2013 16:54:31 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 45057852 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[22-May-2013 17:05:13 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 45057852 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[31-May-2013 13:51:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/admusbi/public_html/modules/php/php.module(80) : eval()'d code on line 12
+[31-May-2013 14:26:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function nodeblock_type_enabled() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/nodeblock/nodeblock.install on line 185
+[31-May-2013 14:29:12 Asia/Jakarta] PHP Fatal error:  Call to undefined function nodeblock_type_enabled() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/nodeblock/nodeblock.install on line 185
+[19-Jun-2013 14:21:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected $end in /home/admusbi/public_html/sites/all/themes/usbi/page--front.tpl.php on line 215
+[19-Jun-2013 14:41:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function nodeblock_type_enabled() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/nodeblock/nodeblock.install on line 185
+[27-Jun-2013 13:31:54 Asia/Jakarta] PHP Fatal error:  Call to undefined function nodeblock_type_enabled() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/nodeblock/nodeblock.install on line 185
+[01-Jul-2013 12:24:12 Asia/Jakarta] PHP Fatal error:  Call to undefined function nodeblock_type_enabled() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/nodeblock/nodeblock.install on line 185
+[22-Jul-2013 15:07:04 Asia/Jakarta] PHP Fatal error:  Class 'NodeAccessRecordsUnitTest' not found in /home/admusbi/public_html/profiles/openpublish/modules/contrib/entitycache/entitycache.test on line 261
+[24-Jul-2013 10:10:54 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 22464 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:16:19 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:17:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 22464 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:17:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:19:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 22464 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:19:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:19:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:19:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:30:29 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:30:40 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:30:41 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:30:41 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 22464 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:35:41 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 22464 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:35:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[24-Jul-2013 10:35:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[26-Jul-2013 16:53:11 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 4281601 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 326
+[26-Jul-2013 18:24:28 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 4281601 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 326
+[29-Jul-2013 09:47:57 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 4281601 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 326
+[29-Jul-2013 10:20:39 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 4281601 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 326
+[23-Aug-2013 14:41:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 5184 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[29-Aug-2013 10:32:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 20736 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[27-Sep-2013 13:38:33 Asia/Jakarta] PHP Fatal error:  Call to a member function options_validate() on a non-object in /home/admusbi/public_html/profiles/openpublish/modules/contrib/views/includes/admin.inc on line 4398
+[01-Nov-2013 14:27:41 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[01-Nov-2013 14:41:41 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[01-Nov-2013 14:43:03 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 21:42:37 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:02:11 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:15:49 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:19:23 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:35:30 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:40:12 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:42:07 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:43:32 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[18-Nov-2013 23:45:02 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[19-Nov-2013 00:25:28 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[19-Nov-2013 00:29:23 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[19-Nov-2013 00:29:46 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[19-Nov-2013 00:30:22 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[19-Nov-2013 00:31:56 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[29-Nov-2013 15:02:49 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[29-Nov-2013 15:03:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method stdClass::save() in /home/admusbi/public_html/profiles/openpublish/modules/contrib/boxes/boxes.module on line 518
+[29-Nov-2013 15:05:36 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[29-Nov-2013 15:51:47 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[10-Dec-2013 15:57:24 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[10-Dec-2013 16:06:52 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[10-Dec-2013 16:07:20 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/admusbi/public_html/modules/block/block.module on line 507
+[03-Jan-2014 15:55:45 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 130023424 bytes exhausted (tried to allocate 20736 bytes) in /home/admusbi/public_html/modules/system/image.gd.inc on line 237
+[17-Jan-2014 00:54:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function render_block() in /home/admusbi/public_html/sites/all/themes/usbi/page--front.tpl.php on line 54
+[17-Jan-2014 00:55:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function block_render() in /home/admusbi/public_html/sites/all/themes/usbi/page--front.tpl.php on line 54
+[17-Jan-2014 00:56:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function block_render() in /home/admusbi/public_html/sites/all/themes/usbi/page--front.tpl.php on line 54
+[17-Jan-2014 01:01:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function render_i18n_block() in /home/admusbi/public_html/sites/all/themes/usbi/page--front.tpl.php on line 54

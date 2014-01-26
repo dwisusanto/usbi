@@ -1,0 +1,114 @@
+	
+/* Tablet Portrait size to desktop (devices and browsers) */
+@media only screen and (min-width: 1024px) and (max-width: 1060px) {
+	.usbi-wrapper {
+	width: 94%;
+	}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (max-width: 1023px) {
+	.usbi-wrapper {
+	width: 97%;
+	}
+
+	
+}
+	
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+		
+	.usbi-wrapper {
+		width: 94%;
+	}
+
+		
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.usbi-header	{
+		padding-bottom:5px;
+	}
+	.usbi-toplogo	{
+		padding-left:0px;
+	}
+	.usbi-toplogo img	{
+		width:100%;
+	}
+	.usbi-frmsearch	{
+		clear:both;
+		}
+	.usbi-searchbox input[type=text], .usbi-searchbox input[type=image] {
+		margin:0px 0 5px 0;		
+	}
+	.usbi-searchbox input[type=text] {		
+		width:230px;
+		height:24px;
+		color:#a6aaa9;
+		padding: 0 38px 5px 7px;
+		background:url(../img/bg_img_search.png) top left no-repeat;
+	}
+	.usbi-searchbox input[type=image] {
+		width:31px;
+		height:22px;
+	}
+	.usbi-social {
+		display:none;
+	}
+	
+	.usbi-slider-left	{
+		display:none;
+	}
+	.usbi-slider-right	{
+		
+	}
+	.usbi-slider-right img	{
+		width:278px;
+	}
+	
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+	.usbi-header	{
+		padding-bottom:5px;
+	}
+	.usbi-toplogo	{
+		padding-left:0px;
+	}
+	.usbi-toplogo img	{
+		width:280px;
+	}
+	.usbi-frmsearch	{
+		clear:both;
+		}
+	.usbi-searchbox input[type=text], .usbi-searchbox input[type=image] {
+		margin:0px 0 5px 0;		
+	}
+	.usbi-searchbox input[type=text] {		
+		width:230px;
+		height:24px;
+		color:#a6aaa9;
+		padding: 0 38px 5px 7px;
+		background:url(../img/bg_img_search.png) top left no-repeat;
+	}
+	.usbi-searchbox input[type=image] {
+		width:31px;
+		height:22px;
+	}
+	.usbi-social {
+		display:none;
+	}
+	
+	.usbi-slider-left	{
+		display:none;
+	}
+	.usbi-slider-right	{
+		
+	}
+	.usbi-slider-right img	{
+		width:278px;
+	}
+}
